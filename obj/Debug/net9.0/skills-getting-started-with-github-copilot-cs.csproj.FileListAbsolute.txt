@@ -1,0 +1,5 @@
+C:\Users\sandr\OneDrive\Documentos\GitHub Gmail\skills-getting-started-with-github-copilot-CSharp\obj\Debug\net9.0\skills-getting-started-with-github-copilot-cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Documentos\GitHub Gmail\skills-getting-started-with-github-copilot-CSharp\obj\Debug\net9.0\skills-getting-started-with-github-copilot-cs.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Documentos\GitHub Gmail\skills-getting-started-with-github-copilot-CSharp\obj\Debug\net9.0\skills-getting-started-with-github-copilot-cs.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Documentos\GitHub Gmail\skills-getting-started-with-github-copilot-CSharp\obj\Debug\net9.0\skills-getting-started-with-github-copilot-cs.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Documentos\GitHub Gmail\skills-getting-started-with-github-copilot-CSharp\obj\Debug\net9.0\skills-getting-started-with-github-copilot-cs.sourcelink.json

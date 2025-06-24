@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sandra.scorsi\\.nuget\\packages\\": {}
+    "C:\\Users\\sandr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sandra.scorsi\\OneDrive - COMPASSO TECNOLOGIA LTDA\\Documentos\\GitHUB_Gmail\\skills-getting-started-with-github-copilot-CSharp\\skills-getting-started-with-github-copilot-cs\\skills-getting-started-with-github-copilot-cs.csproj",
+      "projectUniqueName": "C:\\Users\\sandr\\OneDrive\\Documentos\\GitHub Gmail\\skills-getting-started-with-github-copilot-CSharp\\skills-getting-started-with-github-copilot-cs.csproj",
       "projectName": "skills-getting-started-with-github-copilot-cs",
-      "projectPath": "C:\\Users\\sandra.scorsi\\OneDrive - COMPASSO TECNOLOGIA LTDA\\Documentos\\GitHUB_Gmail\\skills-getting-started-with-github-copilot-CSharp\\skills-getting-started-with-github-copilot-cs\\skills-getting-started-with-github-copilot-cs.csproj",
-      "packagesPath": "C:\\Users\\sandra.scorsi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sandra.scorsi\\OneDrive - COMPASSO TECNOLOGIA LTDA\\Documentos\\GitHUB_Gmail\\skills-getting-started-with-github-copilot-CSharp\\skills-getting-started-with-github-copilot-cs\\obj\\",
+      "projectPath": "C:\\Users\\sandr\\OneDrive\\Documentos\\GitHub Gmail\\skills-getting-started-with-github-copilot-CSharp\\skills-getting-started-with-github-copilot-cs.csproj",
+      "packagesPath": "C:\\Users\\sandr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sandr\\OneDrive\\Documentos\\GitHub Gmail\\skills-getting-started-with-github-copilot-CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sandra.scorsi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\sandr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
